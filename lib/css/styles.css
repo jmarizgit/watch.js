@@ -1,0 +1,43 @@
+/*
+	Stylesheet file WATCH.JS
+	by Mariz Melo MM © 2012
+	https://github.com/jmarizgit/watch.js
+*/
+/* Google fonts */
+@import url(http://fonts.googleapis.com/css?family=Megrim|Open+Sans);
+
+/* RESET */
+html,body,div,ul,li,img{
+	border: 	0;
+	margin: 	0;
+	padding: 	0;
+}
+/* HTML TAGS */
+html{
+	font: 62.5% 'Open Sans', sans-serif, arial;
+	height: 100%;
+}
+body{
+	font-size: 1.4em;
+	height: 900px;
+}
+
+/* WATCH.JS */
+.brand{
+	font-family: 'Megrim';
+}
+/* CLASS UTILS */
+::-webkit-input-placeholder {
+   font-style: italic; 
+}
+:-moz-placeholder {  
+   font-style: italic;  
+}
+.rounded {
+	-webkit-border-radius: 10px;
+	-moz-border-radius: 10px;
+	-o-border-radius: 10px;
+	-ms-border-radius: 10px;
+	-khtml-border-radius: 10px;
+	border-radius: 10px;
+}
