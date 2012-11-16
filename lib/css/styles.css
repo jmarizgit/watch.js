@@ -26,6 +26,7 @@ body{
 /* WATCH.JS */
 .span2{
 	width: 160px;
+	text-align: center;
 }
 .brand{
 	font-family: 'Megrim';
