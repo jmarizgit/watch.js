@@ -1,7 +1,9 @@
 watch.js
 =========
-> by Mariz Melo (c) 2012
-> [https://github.com/jmarizgit/watch.js](https://github.com/jmarizgit/watch.js)
+
+> author:  Mariz Melo 2012<br/>
+> page: [http://jmarizgit.github.com/watch.js/](http://jmarizgit.github.com/watch.js/)<br/>
+> repository: [https://github.com/jmarizgit/watch.js](https://github.com/jmarizgit/watch.js)
 
 Lists of movies to watch later, which you have watched before, and more... (iTunes API, Local Storage, JavaScript)
 
